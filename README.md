@@ -1,7 +1,7 @@
 # Cognos
 Cognos is ML and AI based project developed by Futurist LLC. Cognos is a Smart Communication and Meet Application with AI powered Voice and Video Calling.
 It also includes some advanced features like Emotion Recognition during Video Calls and Meetings.
-but in Future you will get to experience some more advanced functions that includes
+Very Soon, you will get to experience advanced Vision Services that includes
 
 1) PDF Maker
 2) Text Recognition
