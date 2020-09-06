@@ -1,16 +1,16 @@
-# cognos
+# Cognos
+Cognos is ML and AI based project developed by Futurist LLC. Cognos is a Smart Communication and Meet Application with AI powered Voice and Video Calling.
+It also includes some advanced features like Emotion Recognition during Video Calls and Meetings.
+Very Soon, you will get to experience advanced Vision Services that includes
 
-A new Flutter application.
+1) PDF Maker
+2) Text Recognition
+3) OCR
+4) Spam Detection
+5) Text to Speech and Speech to Text
+6) Voice and Text Translation
+7) Scene Recognizer
+8) Object Searching
+9) Transliteration
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can access our Official Presentation Here : (Url)
