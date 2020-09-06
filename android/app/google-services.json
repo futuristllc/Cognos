@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "178024178134",
+    "firebase_url": "https://cognos-49ba3.firebaseio.com",
+    "project_id": "cognos-49ba3",
+    "storage_bucket": "cognos-49ba3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178024178134:android:c8eca607592683b8334477",
+        "android_client_info": {
+          "package_name": "com.futurist.cognos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178024178134-sv3td9ridpj3adn60cnng9mgs90bhdcn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.futurist.cognos",
+            "certificate_hash": "e1204954dc3d0538fd5e71913d2a9ba483fcc9b1"
+          }
+        },
+        {
+          "client_id": "178024178134-5gjqkuq4n1lb834nh20dnsgbrmhk7aop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1O2XVgB8sy8zM5cCUTnzC5nL8hZ3yQ9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178024178134-5gjqkuq4n1lb834nh20dnsgbrmhk7aop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
